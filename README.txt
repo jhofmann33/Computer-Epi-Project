@@ -1,2 +1,3 @@
-# Abstract
+# Abstract:
+
 After the recent unfolding of the COVID-19 pandemic and the im- pact on the world’s population and healthcare systems, there is a need to understand how COVID-19 may have affected the fre- quency, pervasiveness, and severity of other infectious diseases. Our study will aim to investigate the joint-dynamic relationship between COVID-19 and other infectious diseases using empirical and forecasting models. We will create and validate a forecasting model that can estimate the missing Influenza cases from the begin- ning of the pandemic to recent, while accounting for confounding factors such as public health policies that were enacted during the pandemic. Empirical models will be used to explain and interpret the decrease and absence in Influenza cases during the pandemic. To complete this goal we leverage large-scale, publicly available data sources, and surveillance systems to capture the relationships.
